@@ -2,6 +2,8 @@
 Maps for field trip to measure tree canopy
 All created and designed by Brian Metz
 
+Visit: https://brianemetz.github.io/geo-409-field-trip/
+
 ![Kentucky Counties](KyLandcover.jpg)   
 Kentucky counties with selected land cover types – [Download geospatial PDF](KyLandcover.pdf)
 
